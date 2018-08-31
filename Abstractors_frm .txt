@@ -1,0 +1,946 @@
+﻿Version =20
+VersionRequired =20 ' Linda testing
+Checksum =-673582144
+Begin Form
+    RecordSelectors = NotDefault
+    NavigationButtons = NotDefault
+    DividingLines = NotDefault
+    DefaultView =0
+    ScrollBars =0
+    ViewsAllowed =1
+    PictureAlignment =2
+    DatasheetGridlinesBehavior =3
+    Cycle =1
+    GridX =24
+    GridY =24
+    Width =6840
+    DatasheetFontHeight =10
+    ItemSuffix =41
+    Left =2955
+    Top =2115
+    Right =9795
+    Bottom =7440
+    DatasheetGridlinesColor =12632256
+    RecSrcDt = Begin
+        0xef981d2374b0e140
+    End
+    GUID = Begin
+        0x3bd7ce6d4ffbc449b2478b0401130ea7
+    End
+    RecordSource ="Abstractors"
+    Caption ="Abstractor Information"
+    BeforeUpdate ="[Event Procedure]"
+    OnOpen ="[Event Procedure]"
+    DatasheetFontName ="Arial"
+    PrtMip = Begin
+        0xa0050000a0050000a0050000a005000000000000201c0000e010000001000000 ,
+        0x010000006801000000000000a10700000100000001000000
+    End
+    PrtDevMode = Begin
+        0x00000000dc123a00b4f3773300000000e0854e035cea5f2fe8103a00b03e4e03 ,
+        0x010420509c00200503f7000401000100ea0a6f08640001000700580201000100 ,
+        0x5802020000004c657474657200e3460004000000000d3a00df5d7c5a04000000 ,
+        0x00000000e45d0000000000000000000000000000000000000000000002000000 ,
+        0x0100000001000000000000000000000000000000000000000000000020501410 ,
+        0x440065006c006c00200043006f006c006f00720020004c006100730065007200 ,
+        0x2000330031003100300063006e002000500043004c0036000000000000000000 ,
+        0x4e68a013400818100b0164000100070001000000000000000000070000000801 ,
+        0x0600000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000008080800080808000808080008080800000103000202000102020000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000100000000000000020248000000000000000000000000000000bc020000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000050000000000000000010000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000100000001000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000009600 ,
+        0x0000c80001010101010101010101010109000000000000000000000000000000 ,
+        0xbc0200000000008000000200540069006d006500730020004e00650077002000 ,
+        0x52006f006d0061006e0000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000012705f00000000000000000000000000 ,
+        0x0000000000000000000000010000000000000000000000000000000000003000 ,
+        0x00000003000000000000000000000000000000000000000000000000
+    End
+    PrtDevNames = Begin
+        0x0800250042000100000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00003139322e3136382e312e333900
+    End
+    FilterOnLoad =0
+    ShowPageMargins =0
+    AllowLayoutView =0
+    DatasheetGridlinesColor12 =12632256
+    PrtDevModeW = Begin
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x2000330031003100300063006e002000500043004c0036000000000000000000 ,
+        0x01042050dc00200503f7000401000100ea0a6f08640001000700580201000100 ,
+        0x5802020000004c00650074007400650072000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000002000000 ,
+        0x0100000001000000000000000000000000000000000000000000000020501410 ,
+        0x440065006c006c00200043006f006c006f00720020004c006100730065007200 ,
+        0x2000330031003100300063006e002000500043004c0036000000000000000000 ,
+        0x4e68a013400818100b0164000100070001000000000000000000070000000801 ,
+        0x0600000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000008080800080808000808080008080800000103000202000102020000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000100000000000000020248000000000000000000000000000000bc020000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000050000000000000000010000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000100000001000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000009600 ,
+        0x0000c80001010101010101010101010109000000000000000000000000000000 ,
+        0xbc0200000000008000000200540069006d006500730020004e00650077002000 ,
+        0x52006f006d0061006e0000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000012705f00000000000000000000000000 ,
+        0x0000000000000000000000010000000000000000000000000000000000003000 ,
+        0x00000003000000000000000000000000000000000000000000000000
+    End
+    PrtDevNamesW = Begin
+        0x040021003e000100000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000031003900 ,
+        0x32002e003100360038002e0031002e00330039000000
+    End
+    NoSaveCTIWhenDisabled =1
+    Begin
+        Begin Label
+            BackStyle =0
+        End
+        Begin Rectangle
+            SpecialEffect =3
+            BackStyle =0
+            BorderLineStyle =0
+        End
+        Begin CommandButton
+            FontSize =8
+            FontWeight =400
+            ForeColor =-2147483630
+            FontName ="MS Sans Serif"
+            BorderLineStyle =0
+        End
+        Begin CheckBox
+            SpecialEffect =2
+            BorderLineStyle =0
+            LabelX =230
+            LabelY =-30
+        End
+        Begin TextBox
+            SpecialEffect =2
+            OldBorderStyle =0
+            BorderLineStyle =0
+        End
+        Begin ComboBox
+            SpecialEffect =2
+            BorderLineStyle =0
+        End
+        Begin Section
+            Height =5340
+            BackColor =-2147483633
+            Name ="Detail"
+            GUID = Begin
+                0xe9c4e82240980745939c424ca96e3b01
+            End
+            Begin
+                Begin ComboBox
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =85
+                    ColumnCount =2
+                    ListWidth =7200
+                    Left =1620
+                    Top =120
+                    Width =4140
+                    Height =300
+                    FontSize =10
+                    ColumnInfo ="\"\";\"\";\"\";\"\";\"10\";\"0\""
+                    GUID = Begin
+                        0xeab57a03765f344c883d01cf51464dde
+                    End
+                    Name ="Combo4"
+                    RowSourceType ="Table/Query"
+                    RowSource ="SELECT DISTINCTROW Abstractors.ID, [Name] & \" - \" & [Attn] AS Ident, Abstracto"
+                        "rs.Active FROM Abstractors WHERE ((([Name] & \" - \" & [Attn]) Is Not Null) AND "
+                        "((Abstractors.Active)=True)) ORDER BY [Name] & \" - \" & [Attn];"
+                    ColumnWidths ="0;1440"
+                    AfterUpdate ="[Event Procedure]"
+
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =120
+                            Top =120
+                            Width =1395
+                            Height =240
+                            Name ="Jurisdiction_Label"
+                            Caption ="Select Abstractor:"
+                            GUID = Begin
+                                0x4e7f4a0da5deef418afa296b75303904
+                            End
+                        End
+                    End
+                End
+                Begin Rectangle
+                    OverlapFlags =93
+                    Left =120
+                    Top =540
+                    Width =6540
+                    Height =4020
+                    Name ="Box7"
+                    GUID = Begin
+                        0xba4149162439d140bebe00dc679850c4
+                    End
+                    LayoutCachedLeft =120
+                    LayoutCachedTop =540
+                    LayoutCachedWidth =6660
+                    LayoutCachedHeight =4560
+                End
+                Begin CommandButton
+                    Cancel = NotDefault
+                    OverlapFlags =85
+                    Left =6150
+                    Top =4680
+                    Width =490
+                    Height =490
+                    TabIndex =7
+                    Name ="cmdClose"
+                    Caption ="Command8"
+                    OnClick ="[Event Procedure]"
+                    PictureData = Begin
+                        0x2800000010000000100000000100040000000000800000000000000000000000 ,
+                        0x0000000000000000000000000000800000800000008080008000000080008000 ,
+                        0x8080000080808000c0c0c0000000ff00c0c0c00000ffff00ff000000c0c0c000 ,
+                        0xffff0000ffffff00dadad0dadadadadaadad00adadadadaddad030dadadadada ,
+                        0xad0330adadadadad0033300000000adaa03330ff0dadadadd03300ff0adad4da ,
+                        0xa03330ff0dad44add03330ff0ad44444a03330ff0d444444d03330ff0ad44444 ,
+                        0xa0330fff0dad44add030ffff0adad4daa00fffff0dadadadd00000000adadada ,
+                        0xadadadadadadadad000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x000000000000000000000000000000000000000000000000
+                    End
+                    ObjectPalette = Begin
+                        0x000301000000000000000000
+                    End
+                    ControlTipText ="Close Form"
+                    GUID = Begin
+                        0xf20430bd374dbe46ac187d3f080aa552
+                    End
+
+                    LayoutCachedLeft =6150
+                    LayoutCachedTop =4680
+                    LayoutCachedWidth =6640
+                    LayoutCachedHeight =5170
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    Left =1005
+                    Top =975
+                    Width =4740
+                    TabIndex =1
+                    Name ="Name"
+                    ControlSource ="Name"
+                    GUID = Begin
+                        0x9e6d1319071df84ab48127d1297b7f67
+                    End
+
+                    LayoutCachedLeft =1005
+                    LayoutCachedTop =975
+                    LayoutCachedWidth =5745
+                    LayoutCachedHeight =1215
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =285
+                            Top =975
+                            Width =540
+                            Height =240
+                            Name ="Label15"
+                            Caption ="Name:"
+                            GUID = Begin
+                                0x69e8247f386f2343a31e0f36c8e5089e
+                            End
+                            LayoutCachedLeft =285
+                            LayoutCachedTop =975
+                            LayoutCachedWidth =825
+                            LayoutCachedHeight =1215
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    Left =1005
+                    Top =1275
+                    Width =4740
+                    TabIndex =2
+                    Name ="Attn"
+                    ControlSource ="Attn"
+                    GUID = Begin
+                        0x8e36b6a79979e34b920262f6577d5c87
+                    End
+
+                    LayoutCachedLeft =1005
+                    LayoutCachedTop =1275
+                    LayoutCachedWidth =5745
+                    LayoutCachedHeight =1515
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =285
+                            Top =1275
+                            Width =645
+                            Height =240
+                            Name ="Label16"
+                            Caption ="Attn To:"
+                            GUID = Begin
+                                0x5e0beab1bc8e4645a3cb8a267e8c384d
+                            End
+                            LayoutCachedLeft =285
+                            LayoutCachedTop =1275
+                            LayoutCachedWidth =930
+                            LayoutCachedHeight =1515
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    EnterKeyBehavior = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =215
+                    Left =1005
+                    Top =1575
+                    Width =4740
+                    Height =780
+                    TabIndex =3
+                    Name ="Addr"
+                    ControlSource ="Addr"
+                    GUID = Begin
+                        0xb79e716e56ab004c91d6796793605e96
+                    End
+
+                    LayoutCachedLeft =1005
+                    LayoutCachedTop =1575
+                    LayoutCachedWidth =5745
+                    LayoutCachedHeight =2355
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =285
+                            Top =1575
+                            Width =690
+                            Height =240
+                            Name ="Label17"
+                            Caption ="Address:"
+                            GUID = Begin
+                                0x387590414c7fa94abf2b79c885dd3fee
+                            End
+                            LayoutCachedLeft =285
+                            LayoutCachedTop =1575
+                            LayoutCachedWidth =975
+                            LayoutCachedHeight =1815
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    Left =1710
+                    Top =3045
+                    TabIndex =4
+                    Name ="Phone"
+                    ControlSource ="Phone"
+                    InputMask ="!\\(999\") \"000\\-0000;0;_"
+                    GUID = Begin
+                        0x355fdcfba677f44c96840f03fbe1d072
+                    End
+
+                    LayoutCachedLeft =1710
+                    LayoutCachedTop =3045
+                    LayoutCachedWidth =3150
+                    LayoutCachedHeight =3285
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =990
+                            Top =3045
+                            Width =585
+                            Height =240
+                            Name ="Label18"
+                            Caption ="Phone:"
+                            GUID = Begin
+                                0xf7a34975012e0344a2a7818a853fe2a0
+                            End
+                            LayoutCachedLeft =990
+                            LayoutCachedTop =3045
+                            LayoutCachedWidth =1575
+                            LayoutCachedHeight =3285
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    Left =3990
+                    Top =3045
+                    TabIndex =5
+                    Name ="FAX"
+                    ControlSource ="FAX"
+                    InputMask ="!\\(999\") \"000\\-0000;0;_"
+                    GUID = Begin
+                        0xf4745d3cfaca2946843fba72e539560d
+                    End
+
+                    LayoutCachedLeft =3990
+                    LayoutCachedTop =3045
+                    LayoutCachedWidth =5430
+                    LayoutCachedHeight =3285
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =3510
+                            Top =3045
+                            Width =420
+                            Height =240
+                            Name ="Label19"
+                            Caption ="FAX:"
+                            GUID = Begin
+                                0xfc38a339cc1b2a45868860f1093e376d
+                            End
+                            LayoutCachedLeft =3510
+                            LayoutCachedTop =3045
+                            LayoutCachedWidth =3930
+                            LayoutCachedHeight =3285
+                        End
+                    End
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =2910
+                    Top =4755
+                    Width =850
+                    Height =415
+                    TabIndex =8
+                    Name ="cmdAdd"
+                    Caption ="Add New"
+                    OnClick ="[Event Procedure]"
+                    ObjectPalette = Begin
+                        0x000301000000000000000000
+                    End
+                    ControlTipText ="Add Record"
+                    GUID = Begin
+                        0xdbbffd9c4099964bbc584333bccb2f1a
+                    End
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =4755
+                    LayoutCachedWidth =3760
+                    LayoutCachedHeight =5170
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin CommandButton
+                    Enabled = NotDefault
+                    OverlapFlags =85
+                    Left =5190
+                    Top =4680
+                    Width =490
+                    Height =490
+                    TabIndex =9
+                    Name ="cmdDelete"
+                    Caption ="Command21"
+                    OnClick ="[Event Procedure]"
+                    PictureData = Begin
+                        0x2800000010000000100000000100040000000000800000000000000000000000 ,
+                        0x0000000000000000000000000000800000800000008080008000000080008000 ,
+                        0x8080000080808000c0c0c0000000ff00c0c0c00000ffff00ff000000c0c0c000 ,
+                        0xffff0000ffffff00dadadadadadadadaadadadadadadadaddadadadadadadada ,
+                        0xadadadadadadadaddada177adada77da1dad1177adad17ad11da7117dad71ada ,
+                        0x111da1177d117dad1111d7117711dada11111d11111dadad1111da71117adada ,
+                        0x111d77111177adad11d711da71177ada1dadadada71177addadadadadad11ada ,
+                        0xadadadadadadadad000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000
+                    End
+                    ObjectPalette = Begin
+                        0x000301000000000000000000
+                    End
+                    ControlTipText ="Delete Record"
+                    GUID = Begin
+                        0xff69159ecc94e447943a14ec2f290787
+                    End
+
+                    LayoutCachedLeft =5190
+                    LayoutCachedTop =4680
+                    LayoutCachedWidth =5680
+                    LayoutCachedHeight =5170
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    Left =2400
+                    Top =3405
+                    Width =4140
+                    TabIndex =6
+                    Name ="Email"
+                    ControlSource ="Email"
+                    GUID = Begin
+                        0xa984fd2863fd89469e95b3b96bb6273e
+                    End
+
+                    LayoutCachedLeft =2400
+                    LayoutCachedTop =3405
+                    LayoutCachedWidth =6540
+                    LayoutCachedHeight =3645
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =180
+                            Top =3435
+                            Width =2100
+                            Height =240
+                            Name ="lblEmail"
+                            Caption ="General/2 owner order Email"
+                            GUID = Begin
+                                0x19e04170eb511e4eb9f15e7286d5e63c
+                            End
+                            LayoutCachedLeft =180
+                            LayoutCachedTop =3435
+                            LayoutCachedWidth =2280
+                            LayoutCachedHeight =3675
+                        End
+                    End
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =3870
+                    Top =4740
+                    Width =780
+                    Height =420
+                    TabIndex =10
+                    Name ="cmdEdit"
+                    Caption ="Edit"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x3f8bcbfccf8082448436fc855f781c56
+                    End
+
+                    LayoutCachedLeft =3870
+                    LayoutCachedTop =4740
+                    LayoutCachedWidth =4650
+                    LayoutCachedHeight =5160
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin CheckBox
+                    Locked = NotDefault
+                    OverlapFlags =215
+                    Left =4770
+                    Top =660
+                    Width =240
+                    TabIndex =11
+                    Name ="Check27"
+                    ControlSource ="Active"
+                    GUID = Begin
+                        0xd589ba3fffcb344491bc4ebb029c8ab4
+                    End
+
+                    LayoutCachedLeft =4770
+                    LayoutCachedTop =660
+                    LayoutCachedWidth =5010
+                    LayoutCachedHeight =900
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =5000
+                            Top =630
+                            Width =720
+                            Height =240
+                            Name ="Label28"
+                            Caption ="Active"
+                            GUID = Begin
+                                0x89a78210b89a104b8d80d07a3facd06f
+                            End
+                            LayoutCachedLeft =5000
+                            LayoutCachedTop =630
+                            LayoutCachedWidth =5720
+                            LayoutCachedHeight =870
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    Left =2400
+                    Top =3735
+                    Width =4140
+                    TabIndex =12
+                    Name ="Text29"
+                    ControlSource ="UpdatesEmail"
+                    GUID = Begin
+                        0x2a348f1a6827544c808a056da1d78b93
+                    End
+
+                    LayoutCachedLeft =2400
+                    LayoutCachedTop =3735
+                    LayoutCachedWidth =6540
+                    LayoutCachedHeight =3975
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            TextAlign =3
+                            Left =180
+                            Top =3765
+                            Width =2100
+                            Height =240
+                            Name ="Label30"
+                            Caption ="Updates Email"
+                            GUID = Begin
+                                0x2608502c0e3b3a4890b746cb67376df9
+                            End
+                            LayoutCachedLeft =180
+                            LayoutCachedTop =3765
+                            LayoutCachedWidth =2280
+                            LayoutCachedHeight =4005
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    Left =2400
+                    Top =4095
+                    Width =4140
+                    TabIndex =13
+                    Name ="Text31"
+                    ControlSource ="FollowupEmail"
+                    GUID = Begin
+                        0x160d0c1a0e473a499b52e13cbf5ab27c
+                    End
+
+                    LayoutCachedLeft =2400
+                    LayoutCachedTop =4095
+                    LayoutCachedWidth =6540
+                    LayoutCachedHeight =4335
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            TextAlign =3
+                            Left =180
+                            Top =4125
+                            Width =2100
+                            Height =240
+                            Name ="Label32"
+                            Caption ="Follow up Email"
+                            GUID = Begin
+                                0x1b78a53086cc7c4fa628aab2200f8f32
+                            End
+                            LayoutCachedLeft =180
+                            LayoutCachedTop =4125
+                            LayoutCachedWidth =2280
+                            LayoutCachedHeight =4365
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =223
+                    IMESentenceMode =3
+                    Left =1020
+                    Top =2520
+                    Width =1710
+                    Height =255
+                    TabIndex =14
+                    Name ="Text33"
+                    ControlSource ="City"
+                    GUID = Begin
+                        0x13c8b0fdf7a1df4192f5555a8efd4b00
+                    End
+
+                    LayoutCachedLeft =1020
+                    LayoutCachedTop =2520
+                    LayoutCachedWidth =2730
+                    LayoutCachedHeight =2775
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            Left =330
+                            Top =2520
+                            Width =615
+                            Height =240
+                            Name ="Label34"
+                            Caption ="City:"
+                            GUID = Begin
+                                0x42417133111e6246846e5736a9fe5a13
+                            End
+                            LayoutCachedLeft =330
+                            LayoutCachedTop =2520
+                            LayoutCachedWidth =945
+                            LayoutCachedHeight =2760
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =3330
+                    Top =2520
+                    Width =840
+                    Height =255
+                    TabIndex =15
+                    Name ="Text35"
+                    ControlSource ="State"
+                    GUID = Begin
+                        0xfe4b711d63073d429d73cc2c3fb0bab1
+                    End
+
+                    LayoutCachedLeft =3330
+                    LayoutCachedTop =2520
+                    LayoutCachedWidth =4170
+                    LayoutCachedHeight =2775
+                    Begin
+                        Begin Label
+                            OverlapFlags =247
+                            TextAlign =3
+                            Left =2670
+                            Top =2520
+                            Width =630
+                            Height =240
+                            Name ="Label36"
+                            Caption ="State:"
+                            GUID = Begin
+                                0x476b0b7d0f72db4ab58c4a89b3ef23f1
+                            End
+                            LayoutCachedLeft =2670
+                            LayoutCachedTop =2520
+                            LayoutCachedWidth =3300
+                            LayoutCachedHeight =2760
+                        End
+                    End
+                End
+                Begin TextBox
+                    Locked = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =5010
+                    Top =2520
+                    Width =1200
+                    Height =255
+                    TabIndex =16
+                    Name ="Text37"
+                    ControlSource ="Zip"
+                    GUID = Begin
+                        0x4c86d79ea9d49743af4fb35e1eede0b7
+                    End
+
+                    LayoutCachedLeft =5010
+                    LayoutCachedTop =2520
+                    LayoutCachedWidth =6210
+                    LayoutCachedHeight =2775
+                    Begin
+                        Begin Label
+                            OverlapFlags =215
+                            TextAlign =3
+                            Left =4290
+                            Top =2520
+                            Width =615
+                            Height =240
+                            Name ="Label38"
+                            Caption ="Zip:"
+                            GUID = Begin
+                                0x86f2783fe1e39041a09dc27258134c0d
+                            End
+                            LayoutCachedLeft =4290
+                            LayoutCachedTop =2520
+                            LayoutCachedWidth =4905
+                            LayoutCachedHeight =2760
+                        End
+                    End
+                End
+                Begin TextBox
+                    Visible = NotDefault
+                    AllowAutoCorrect = NotDefault
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =540
+                    Top =540
+                    Width =180
+                    Height =255
+                    TabIndex =17
+                    Name ="Text39"
+                    ControlSource ="ID"
+                    GUID = Begin
+                        0x05b746f5dd0a694088cec2a97d0bea58
+                    End
+
+                    LayoutCachedLeft =540
+                    LayoutCachedTop =540
+                    LayoutCachedWidth =720
+                    LayoutCachedHeight =795
+                End
+            End
+        End
+    End
+End
+CodeBehindForm
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Option Compare Database
+Option Explicit
+
+Private Sub cmdEdit_Click()
+DoCmd.OpenForm ("EditAbstractor")
+End Sub
+
+Sub Combo4_AfterUpdate()
+    ' Find the record that matches the control.
+    Me.RecordsetClone.FindFirst "[ID] = " & Me![Combo4]
+    Me.Bookmark = Me.RecordsetClone.Bookmark
+End Sub
+
+Private Sub cmdClose_Click()
+
+On Error GoTo Err_cmdClose_Click
+DoCmd.Close
+
+Exit_cmdClose_Click:
+    Exit Sub
+
+Err_cmdClose_Click:
+    MsgBox Err.Description
+    Resume Exit_cmdClose_Click
+    
+End Sub
+
+Private Sub CmdAdd_Click()
+
+On Error GoTo Err_cmdAdd_Click
+'DoCmd.GoToRecord , , acNewRec
+DoCmd.OpenForm ("AddAbstractor")
+
+Exit_cmdAdd_Click:
+    Exit Sub
+
+Err_cmdAdd_Click:
+    MsgBox Err.Description
+    Resume Exit_cmdAdd_Click
+    
+End Sub
+
+Private Sub cmdDelete_Click()
+
+On Error GoTo Err_cmdDelete_Click
+DoCmd.RunCommand acCmdDeleteRecord
+
+Exit_cmdDelete_Click:
+    Exit Sub
+
+Err_cmdDelete_Click:
+    MsgBox Err.Description
+    Resume Exit_cmdDelete_Click
+    
+End Sub
+
+Private Sub Form_BeforeUpdate(Cancel As Integer)
+'If Not PrivAdmin Then
+'    Cancel = 1
+'    Me.Undo
+'    Call Combo4_AfterUpdate
+'    msgBox "You are not authorized to make changes", vbCritical
+'End If
+End Sub
+
+Private Sub Form_Open(Cancel As Integer)
+'Me.AllowAdditions = PrivAdmin
+'Me.AllowDeletions = PrivAdmin
+cmdAdd.Enabled = PrivAdmin
+'cmdDelete.Enabled = PrivAdmin
+cmdEdit.Enabled = PrivAdmin
+
+Application.SaveAsText acForm, "Auctioneers", "C:\Github\RA\" & "Auctioneer.txt"
+End Sub
